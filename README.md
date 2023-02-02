@@ -17,6 +17,7 @@ Nesse contexto, é possível destacar um conceito importante em um Índice Remis
 
 
 ## Métodos
+
 ## Discussões e Resultados 
 ## Conclusão 
 
