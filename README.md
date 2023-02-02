@@ -15,6 +15,8 @@ A presença de *stop words* é uma questão importante a ser considerada durante
 Nesse contexto, é possível destacar um conceito importante em um Índice Remissivo, TF-IDF, que é uma forma de medição da importância de uma palavra em um conjunto de documentos. No caso, uma *stop word* não possui nível de relevância, pois é desconsiderada na implementação desse trabalho. 
 
 
+obj: contruir um indice remissivo utilizando conceitos de tad
+
 
 ## Métodos
 
