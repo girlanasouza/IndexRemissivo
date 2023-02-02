@@ -21,3 +21,4 @@ Nesse contexto, é possível destacar um conceito importante em um Índice Remis
 ## Conclusão 
 
 ## Referências
+CRIAR e Atualizar um Índice Remissivo. [S. l.], 2 fev. 2023. Disponível em: https://support.microsoft.com/pt-pt/office/criar-e-atualizar-um-%C3%ADndice-remissivo-cc502c71-a605-41fd-9a02-cda9d14bf073. Acesso em: 2 fev. 2023.
